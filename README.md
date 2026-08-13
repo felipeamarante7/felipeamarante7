@@ -83,6 +83,6 @@
 
 ### 🐍 Minha contribuição da semana
 
-![Snake animation](https://raw.githubusercontent.com/felipeamarante7/felipeamarante7/output/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/felipeamarante7/felipeamarante7/output/github-contribution-grid-snake.svg)
 
 </div>
