@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Felipe 👋
 
-### Desenvolvedor Front-end apaixonado por criar interfaces limpas e funcionais
+### Desenvolvedor Full Stack apaixonado por criar interfaces limpas e funcionais
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/felipeamarante7)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/felipeamarante1)
@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🎯 Foco em **JavaScript, HTML e CSS**
+- 🎯 Foco em **JavaScript, Node.js e desenvolvimento Full Stack**
 - 🎥 Crio conteúdo sobre programação no YouTube e Instagram
 - 🌱 Sempre aprendendo algo novo
 - 💬 Me chama nas redes acima!
@@ -29,6 +29,9 @@
   <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Express" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
+  <img align="center" alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
 </div>
 
 ---
