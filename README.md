@@ -39,8 +39,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=felipeamarante7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeamarante7&layout=compact&langs_count=6&theme=tokyonight" />
+  <img height="165em" src="https://github-readme-stats-alpha-beryl-71.vercel.app/api?username=felipeamarante7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats-alpha-beryl-71.vercel.app/api/top-langs/?username=felipeamarante7&layout=compact&langs_count=6&theme=tokyonight" />
 </div>
 
 <div align="center">
@@ -48,7 +48,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=felipeamarante7&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://raw.githubusercontent.com/felipeamarante7/felipeamarante7/output/trophy.svg" />
 </div>
 
 <div align="center">
