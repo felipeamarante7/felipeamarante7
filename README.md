@@ -48,6 +48,32 @@
   <img src="https://github-profile-trophy.vercel.app/?username=felipeamarante7&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipeamarante7&theme=tokyo-night" width="100%" />
+</div>
+
+---
+
+### 📈 Resumo do perfil
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipeamarante7&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipeamarante7&theme=tokyonight" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipeamarante7&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipeamarante7&theme=tokyonight" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felipeamarante7&theme=tokyonight&utcOffset=-3" />
+</div>
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=felipeamarante7&color=blueviolet&style=for-the-badge)
+
+</div>
+
 ---
 
 <div align="center">
